@@ -22,8 +22,8 @@ title: Shubham Ingale Blog
 email: shubhamingale2303@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I write about Data Science, Philosophy and Anime.
-baseurl: "shubham_blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/shubham_blog" # the subpath of your site, e.g. /blog
+url: "https://shubhamingaleiitb.github.io" # the base hostname & protocol for your site
 linkedin_username: ingale-shubham
 # github_username:  jekyll
 
