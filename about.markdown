@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /shubham_blog/about/
+permalink: /about/
 ---
 
 Hey there, I'm Shubham, currently I'm pursuing engineering (just like everyone in India). I study in IIT, Bombay which is an amazing place.
