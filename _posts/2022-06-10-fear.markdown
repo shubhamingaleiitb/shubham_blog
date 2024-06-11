@@ -6,7 +6,6 @@ categories: jekyll update
 excerpt: This is the post excerpt.
 ---
 
-{{ page.excerpt }}
 
 Today I want to talk about something. Fear. We all have fears. Fear of failing. Fear of falling behind. Fear of incompetence. You and me, all alike have different different fears. And when fear strikes you, believe me I have felt it and I feel it sometimes now too, you get paralyzed. Your eyes get wet and the only option you have then is to fight. There is nothing wrong in crying. I cried. But the thing is which nobody tells us is that fighting fear is not a one day thing. You have to fight it every single day. When you are in a state fear you wake up the instant alarm clock rings and you come face to face with your fear.
 
