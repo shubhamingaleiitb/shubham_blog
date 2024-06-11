@@ -3,7 +3,6 @@ layout: post
 title:  "Fear"
 date:   2022-06-10 20:11:48 +0530
 categories: jekyll update
-description: This is a post description.
 excerpt: This is the post excerpt.
 ---
 
