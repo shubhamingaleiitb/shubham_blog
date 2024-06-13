@@ -38,7 +38,7 @@ Internship season really challenges your self confidence. But remember to hold y
 
 # Closing remarks
 
-After failing many interviews and tests in my 6<sup>th</sup> semester, I was finally able to secure an internship through Placement cell. Also remember, you don't have to sit in the hope of Placement Cell bringing the oppotunity to you. You should start "apping" as well. But the most important lesson here is that, believe in yourself and your abilities. I heard this amazing thing which inspires me a lot,
+After failing many interviews and tests in my 6<sup>th</sup> semester, I was finally able to secure an internship through Placement cell. Also remember, you don't have to sit in the hope of Placement Cell bringing the opportunity to you. You should start "apping" as well. But the most important lesson here is that, believe in yourself and your abilities. I heard this amazing thing which inspires me a lot,
 
 **A bird sits on a very weak branch of tree which could fall at any time, but the bird isn't scared. Source of bird's confidence in not the branch but his wings.**
 
