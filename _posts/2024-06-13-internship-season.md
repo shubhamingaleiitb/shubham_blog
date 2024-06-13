@@ -16,7 +16,7 @@ I wasted my summers after my second year ended, which is a huge mistake. I often
 
 # Disease of comparison
  
-Plague of comparison spreads through the institute once selections announcements begin. You would see someone who worked hard getting an internship and someone who got lucky. Yes, luck is a significant part of the process. This will ignite rage, jelousy and self doubt. If you wasted your summers or don't have a good CPI, regret will start setting in. This is a tough time. Me and my friends had ranting session a few nights which lasted for hours, about regrets or about how someone got lucky or praising someone who worked hard. 
+Plague of comparison spreads through the institute once selections announcements begin. You would see someone who worked hard getting an internship and someone who got lucky. Yes, luck is a significant part of the process. This will ignite rage, jealousy and self doubt. If you wasted your summers or don't have a good CPI, regret will start setting in. This is a tough time. Me and my friends had ranting session a few nights which lasted for hours, about regrets or about how someone got lucky or praising someone who worked hard. 
 
 ![quote]({{ 'img/graden-blog2.jpg' | relative_url }})
 
