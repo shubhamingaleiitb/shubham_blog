@@ -18,7 +18,7 @@ I wasted my summers after my second year ended, which is a huge mistake. I often
  
 Plague of comparison spreads through the institute once selections announcements begin. You would see someone who worked hard getting an internship and someone who got lucky. Yes, luck is a significant part of the process. This will ignite rage, jelousy and self doubt. If you wasted your summers or don't have a good CPI, regret will start setting in. This is a tough time. Me and my friends had ranting session a few nights which lasted for hours, about regrets or about how someone got lucky or praising someone who worked hard. 
 
-![quote]({{ 'img\graden-blog2.jpg' | relative_url }})
+![quote]({{ 'img/graden-blog2.jpg' | relative_url }})
 
 Instead of focusing on others, channelize all your focus and energy on yourself (I know this is hard to follow, but this will help you a lot.)
 
@@ -28,7 +28,7 @@ I didn't get a single interview in my 5<sup>th</sup> semester. This was a diffic
 
 Winter vacation started, I knew I had to pivot. I chose Data Science. Why? I liked it and a lot of internship profiles were in the domain of Data Science. I spent my winters learning Python and developing various projects. I got my first interview in mid-December. I wasn't prepared. I got rejected. But I had learnt my lesson, I focused all my energy in developing my skills.
 
-![quote]({{ 'img\focus-on-self.jpg' | relative_url }})
+![quote]({{ 'img/focus-on-self.jpg' | relative_url }})
 
 Internship season really challenges your self confidence. But remember to hold your ground in these difficult times. As George Bernard Shaw said, "Life is about creating yourself." Build resilience. View challenging times as an opportunity to level up. Many students feel that, I have already wasted a lot of time and everyone is ahead of me. But remember,
 
