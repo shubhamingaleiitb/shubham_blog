@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/shubham_blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/shubham_blog/" rel="alternate" type="text/html" /><updated>2024-06-14T00:04:51+05:30</updated><id>http://localhost:4000/shubham_blog/feed.xml</id><title type="html">Shubham Ingale Blog</title><subtitle>I write about Data Science, Philosophy and Anime.</subtitle><entry><title type="html">A survival guide to Internship Season, IIT Bombay</title><link href="http://localhost:4000/shubham_blog/jekyll/update/2024/06/13/internship-season.html" rel="alternate" type="text/html" title="A survival guide to Internship Season, IIT Bombay" /><published>2024-06-13T20:11:48+05:30</published><updated>2024-06-13T20:11:48+05:30</updated><id>http://localhost:4000/shubham_blog/jekyll/update/2024/06/13/internship-season</id><content type="html" xml:base="http://localhost:4000/shubham_blog/jekyll/update/2024/06/13/internship-season.html"><![CDATA[<p>This is a no bullshit guide to navigate through the challenges you would face during your Internship Season at IIT Bombay. It is one of the most important experiences of our college life. It is filled with stress, anxiety and excitement. Internship season forces you to question your career and which path you want to follow in life. In this guide, I’ll try my best to provide you with ideas which will help you enjoy this phase.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/shubham_blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/shubham_blog/" rel="alternate" type="text/html" /><updated>2024-12-18T12:10:08+05:30</updated><id>http://localhost:4000/shubham_blog/feed.xml</id><title type="html">Shubham Ingale Blog</title><subtitle>I write about Data Science, Philosophy and Anime.</subtitle><entry><title type="html">A Survival Guide to Placement Season, IIT Bombay</title><link href="http://localhost:4000/shubham_blog/jekyll/update/2024/12/18/placement-season.html" rel="alternate" type="text/html" title="A Survival Guide to Placement Season, IIT Bombay" /><published>2024-12-18T00:00:00+05:30</published><updated>2024-12-18T00:00:00+05:30</updated><id>http://localhost:4000/shubham_blog/jekyll/update/2024/12/18/placement-season</id><content type="html" xml:base="http://localhost:4000/shubham_blog/jekyll/update/2024/12/18/placement-season.html"><![CDATA[<p><em>P.S. This blog post is specifically catered towards students aiming for placements in the tech domain.</em></p>
+
+<p>Placement season is a major event for most final-year students, and it’s natural to feel overwhelmed with questions:</p>
+
+<ul>
+  <li><strong>I didn’t do an internship—what now?</strong></li>
+  <li><strong>I don’t have strong projects—how can I prepare?</strong></li>
+  <li><strong>I didn’t focus on DSA—am I doomed?</strong></li>
+  <li><strong>I don’t have any PoRs (Positions of Responsibility)—will it hurt my chances?</strong></li>
+</ul>
+
+<p>These concerns are valid, but they don’t define your success. With focus and strategy, you can tackle these challenges and secure great opportunities. Let’s address them one by one.</p>
+
+<h2 id="i-didnt-do-an-internshipwhat-now">I Didn’t Do an Internship—What Now?</h2>
+
+<p>Internships provide valuable experience and boost your resume, but not having one isn’t the end of the road. While you can’t fully make up for an internship, you can minimize its impact by:</p>
+
+<ul>
+  <li><strong>Building Relevant Projects:</strong> Create or improve projects that showcase your technical skills and problem-solving abilities.</li>
+  <li><strong>Contributing to Open Source:</strong> It’s challenging but a great way to demonstrate coding skills and collaboration.</li>
+</ul>
+
+<p>Remember, internships are important but not the only factor that matters. Highlighting your skills and showing initiative can make a strong impression.</p>
+
+<h2 id="i-dont-have-strong-projectswhat-should-i-do">I Don’t Have Strong Projects—What Should I Do?</h2>
+
+<p>Projects are key to showcasing your technical abilities. If you think your projects aren’t good enough:</p>
+
+<ol>
+  <li><strong>List All Your Work:</strong> Include course assignments, self-initiated projects, and group collaborations.</li>
+  <li><strong>Focus on Relevance:</strong> Highlight projects that solve real-world problems or involve tools mentioned in common job descriptions.</li>
+  <li><strong>Borrow Ideas, Learn Later:</strong> Add projects from seniors’ resumes if needed. Use the 2–3 months between resume submission and interviews to thoroughly understand and refine them. Be honest during interviews about your contributions and learning process.</li>
+</ol>
+
+<p>Even borrowed projects can impress if you demonstrate genuine understanding and growth.</p>
+<h2 id="i-didnt-focus-on-dsawhat-should-i-do">I Didn’t Focus on DSA—What Should I Do?</h2>
+
+<p>It’s never too late to start learning Data Structures and Algorithms. There’s always a chance you’ll be asked questions from topics you’re familiar with. For example, during my placements, I only knew till <strong>linked lists</strong>, but I got lucky and was asked an <strong>arrays</strong> question in my interview—and I managed to answer it and got selected. That said, luck isn’t always on your side, so it’s important to start preparing now. Focus on the basics and build from there.</p>
+
+<h3 id="does-the-language-matter">Does the Language Matter?</h3>
+<p>The programming language you use doesn’t matter much in interviews and online assessments. What matters is how you solve the problem. If you’re not too familiar with any specific language, I’d recommend starting with <strong>Python</strong>. It’s easier to learn, has a simple syntax, and allows you to focus more on problem-solving than coding nuances.</p>
+
+<ol>
+  <li><strong>Start with Basics:</strong> Focus on Arrays, Strings, Linked Lists, Stacks, Queues, Sorting, Hashmaps, and Sets—these are the most common topics.</li>
+  <li><strong>Practice Smartly:</strong> Solve <strong>easy</strong> and <strong>medium</strong> questions on <strong>LeetCode</strong>. Hard problems are rarely asked.</li>
+  <li><strong>Stay Consistent:</strong> Dedicate time daily. Small efforts add up quickly.</li>
+  <li><strong>Stay Positive:</strong> You don’t need to master everything. Even solving basic questions can prepare you well.</li>
+</ol>
+
+<h2 id="i-dont-have-any-porswhat-should-i-do">I Don’t Have Any PoRs—What Should I Do?</h2>
+
+<p>Positions of Responsibility (PoRs) are helpful but not mandatory in tech placements. If you don’t have any, focus on:</p>
+
+<ul>
+  <li><strong>Other Achievements:</strong> Highlight technical skills and projects in your resume.</li>
+  <li><strong>Soft Skills:</strong> Show teamwork and communication skills through examples in interviews.</li>
+  <li><strong>Core Strengths:</strong> Strong technical knowledge and problem-solving ability matter more than PoRs.</li>
+</ul>
+
+<p>Many successful candidates get placed without PoRs. Your skills and preparation are what count most.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Placement season is tough, and it’s easy to feel discouraged—especially when you see some friends getting placed early or seemingly getting lucky. <strong>Luck is a part of the process, and you can’t change that.</strong> Some students do get unbelievably lucky, but instead of letting it affect your mental health, embrace it and focus on your own journey.</p>
+
+<p>What you <em>can</em> control is your hard work and preparation. Stay consistent, trust yourself, and believe that your efforts will pay off. Remember: <strong>everyone gets placed eventually—it’s only a matter of when.</strong> Keep pushing forward, and your time will come.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[A no-nonsense guide.]]></summary></entry><entry><title type="html">A survival guide to Internship Season, IIT Bombay</title><link href="http://localhost:4000/shubham_blog/jekyll/update/2024/06/13/internship-season.html" rel="alternate" type="text/html" title="A survival guide to Internship Season, IIT Bombay" /><published>2024-06-13T20:11:48+05:30</published><updated>2024-06-13T20:11:48+05:30</updated><id>http://localhost:4000/shubham_blog/jekyll/update/2024/06/13/internship-season</id><content type="html" xml:base="http://localhost:4000/shubham_blog/jekyll/update/2024/06/13/internship-season.html"><![CDATA[<p>This is a no bullshit guide to navigate through the challenges you would face during your Internship Season at IIT Bombay. It is one of the most important experiences of our college life. It is filled with stress, anxiety and excitement. Internship season forces you to question your career and which path you want to follow in life. In this guide, I’ll try my best to provide you with ideas which will help you enjoy this phase.</p>
 
 <p>There are various preparation sessions conducted by UGAC and Placement Cell before internship season starts. All the sessions are given by “machau” seniors, and I feel a normal student fails to connect with them. Atleast I failed to connect with them. I know there are plenty students who feel the same. I am not a “9 pointer” nor I have any minors. When I look at those seniors who are giving advice in these session, have “9 pointer” and dual minor, it discouraged me. It made me question, do I have a chance? Firstly, let me assure you, you have a chance. I secured an internship in the field of Data Science much later (around March 2024) in the internship season. I’m not an “ideal” student, but that is the whole point of this blog, advice from “not so ideal” student.</p>
 
