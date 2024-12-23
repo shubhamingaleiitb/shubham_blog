@@ -8,6 +8,9 @@ excerpt: A no-nonsense guide.
 
 *P.S. This blog post is specifically catered towards students aiming for placements in the tech domain.*
 
+I got placed on Day 10 of the placement season, which felt late compared to my peers, but I learned that aiming for a profile you truly love matters more than getting placed early. I didn’t receive any shortlists till Day 7, despite feeling that my test performances went well. Once I got an interview call for a company which required basic data science—but I had worked so hard to understand advanced ML—I chose not to go for that interview. Eventually, on my third interview, I landed a job I was excited about. I’ve seen friends who spent years on advanced ML and AI projects but settled for roles unrelated to their expertise just for an earlier placement. If you’ve worked hard in a certain domain, don’t abandon it under pressure. Yes, a higher CPI can attract more shortlists, but if you remain patient and stay true to your interests, the right opportunity will come your way.
+
+
 Placement season is a major event for most final-year students, and it’s natural to feel overwhelmed with questions:  
 
 - **I didn’t do an internship—what now?**  
