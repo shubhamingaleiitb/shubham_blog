@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A survival guide to Internship Season, IIT Bombay"
+title:  "A Survival Guide to Internship Season, IIT Bombay"
 date:   2024-06-13 20:11:48 +0530
 categories: jekyll update
 excerpt: A no bullshit guide.  
